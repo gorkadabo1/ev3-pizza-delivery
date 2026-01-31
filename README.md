@@ -91,7 +91,7 @@ ev3-pizza-delivery/
 ├── src/
 │   └── pizza_delivery.py
 ├── docs/
-│   └── report.pdf
+│   └── pizza_delivery_report.pdf
 └── assets/
     └── robot.jpg
 ```
