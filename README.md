@@ -132,4 +132,4 @@ parametroZenbaki = [3, 3, 1]
 
 ## Course
 
-Robotics and Advanced Control (Robotika eta Kontrol Aurreratuak) EHU
+Robotics and Advanced Control (Robotika eta Kontrol Adimendua) EHU
